@@ -5,3 +5,4 @@ C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
