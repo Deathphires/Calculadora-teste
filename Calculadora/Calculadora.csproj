@@ -46,7 +46,9 @@
   <ItemGroup>
     <Compile Include="Calculadora simles.cs" />
     <Compile Include="Dim.cs" />
+    <Compile Include="operacoes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

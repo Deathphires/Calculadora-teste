@@ -16,13 +16,13 @@ namespace Calculadora
             var first = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Segundo número: ");
             var second = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Digite 1 para fazer uma soma, 2 para subtração, 3 para divisão e 4 para multiplicação: ");
+            Console.WriteLine(
+                "Digite 1 para fazer uma soma, 2 para subtração, 3 para divisão e 4 para multiplicação: ");
             var operacao = Console.ReadLine();
-            var x = second.ToString();
             if (operacao == "1")
             {
-                var resultado = first + second;
-                Console.WriteLine(first + " + " + second + " = " + resultado);
+               var resultado = operacoes.Somar(first, second);
+               Console.WriteLine(first + " + " + second + " = " + resultado);
             }
             else if (operacao == "2")
             {
@@ -39,7 +39,6 @@ namespace Calculadora
                 var resultado = first * second;
                 Console.WriteLine(first + " * " + second + " = " + resultado);
             }
-            
         }
     }
 }
