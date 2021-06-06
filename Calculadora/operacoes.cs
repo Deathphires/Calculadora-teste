@@ -9,5 +9,20 @@ namespace Calculadora
             return primeiroValor + segundoValor;
             
         }
+
+        public static int Subtrair(int primeiroValor, int segundoValor)
+        {
+            return primeiroValor - segundoValor;
+        }
+
+        public static int Dividir(int primeiroValor, int segundoValor)
+        {
+            return primeiroValor / segundoValor;
+        }
+
+        public static int Multiplicar(int primeiroValor, int segundoValor)
+        {
+            return primeiroValor * segundoValor;
+        }
     }
 }
