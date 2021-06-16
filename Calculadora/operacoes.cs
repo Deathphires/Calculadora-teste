@@ -20,10 +20,20 @@ namespace Calculadora
         {
             return primeiroValor * segundoValor;
         }
-        public static double Potenciacao (int primeiroValor, int segundoValor)
+        public static double Potenciacao (double primeiroValor, double segundoValor)
         {
             return Math.Pow(primeiroValor, segundoValor);
-        }    
+        }
+        public static double Raiz (int primeiroValor)
+        {
+            return Math.Sqrt(primeiroValor);
+        }
+        public static double Expoente(double primeiroValor)
+        {
+            return Math.Exp(primeiroValor);
+        }
+
+
     }
 
 }

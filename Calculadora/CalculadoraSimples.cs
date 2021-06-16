@@ -22,8 +22,8 @@ namespace Calculadora
             var operacao = Console.ReadLine();
             if (operacao == "1")
             {
-               var resultado = operacoes.Somar(first, second);
-               Console.WriteLine("\r\n" + first + " + " + second + " = " + resultado);
+                var resultado = operacoes.Somar(first, second);
+                Console.WriteLine("\r\n" + first + " + " + second + " = " + resultado);
             }
             else if (operacao == "2")
             {
@@ -45,6 +45,18 @@ namespace Calculadora
                 var resultado = operacoes.Potenciacao(first, second);
                 Console.WriteLine("\r\n" + first + " elevado a " + second + " é igual a " + resultado);
             }
+            else if (operacao == "6")
+            {
+                var resultado = operacoes.Raiz(first);
+                Console.WriteLine("\r\na raiz quadrada de " + first + " é igual a " + resultado);
+            }
+            else if (operacao == "7")
+            {
+                var resultado = operacoes.Expoente(first);
+                Console.WriteLine(resultado);
+            }
+            
+                
         }
     }
 }
