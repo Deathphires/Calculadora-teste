@@ -1,5 +1,5 @@
-﻿namespace Calculadora
-{
+﻿
+
     public class test1
     {
         public float percentage(int number, int percentual)
@@ -8,4 +8,3 @@
             return resultado / percentual * 100;
         }
     }
-}

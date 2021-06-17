@@ -1,13 +1,7 @@
-﻿using Calculadora;
-using System;
-using System.Activities.Expressions;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-namespace Calculadora
-{
+
+
     class Program
     {
         static void Main(string[] args)
@@ -59,4 +53,3 @@ namespace Calculadora
                 
         }
     }
-}
