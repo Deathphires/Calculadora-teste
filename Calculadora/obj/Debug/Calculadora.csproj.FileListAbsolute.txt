@@ -1,7 +1,14 @@
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
-C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\iuryf\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\lurri\OneDrive\Área de Trabalho\Calculadora-teste\Calculadora\obj\Debug\Calculadora.pdb
